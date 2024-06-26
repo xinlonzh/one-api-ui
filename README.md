@@ -72,7 +72,7 @@ _本项目是基于[one-api](https://github.com/songquanpeng/one-api)二次开�
 
 ## 文档
 
-请查看[文档](https://github.com/MartialBE/one-api/wiki)
+请查看[文档](https://github.com/xinlonzh/one-api-ui/wiki)
 
 ## 当前支持的供应商
 
